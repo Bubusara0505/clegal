@@ -1,0 +1,11 @@
+touch index.html
+mkdir assets
+mkdir pug
+cd assets
+mkdir css
+mkdir img
+mkdir sass
+touch sass/style.sass
+touch css/style.css
+cd -
+touch pug/index.pug
